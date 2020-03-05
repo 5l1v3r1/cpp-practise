@@ -21,8 +21,8 @@ int main() {
   cout<<"&y:"<<&y<<endl; // this is own address
 
 
-  cout<<endl<<"Last situation of the values and variables"<<endl;
-  cout<<a<<" "<<b<<" "<<x<<" "<<y<<" ";
+ // cout<<endl<<"Last situation of the values and variables"<<endl;
+ // cout<<a<<" "<<b<<" "<<x<<" "<<y<<" "<<endl;
 
   return 0;
 }
