@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/cmake-build-debug/soru9.cpp
+iostream
+-
+string
+-
+utility
+-
+

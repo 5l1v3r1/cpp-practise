@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cevaplar.dir/main.cpp.o  -o cevaplar 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/Dogru.h
+Nokta.h
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/Nokta.h
+
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/Nokta.h
+
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/soru7.cpp
+iostream
+-
+Dogru.h
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/Dogru.h
+

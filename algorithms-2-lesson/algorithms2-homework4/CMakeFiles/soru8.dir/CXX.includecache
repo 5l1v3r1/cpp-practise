@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mert/Desktop/university/duzce-university/algoritma-ve-programlama-2/4-hafta/cevaplar/soru8.cpp
+iostream
+-
+string
+-
+
