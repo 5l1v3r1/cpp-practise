@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/soru6.dir/soru6.cpp.o  -o soru6 

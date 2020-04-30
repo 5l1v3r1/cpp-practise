@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/soru2.dir/soru2.cpp.o  -o soru2 

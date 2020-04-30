@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/soru8.dir/soru8.cpp.o  -o soru8 
